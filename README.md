@@ -10,17 +10,11 @@ Project Overview
 
 Key Components
 
-System Architecture & Setup
+How It Work
 
-Wiring and Circuit Diagram
+Code overview
 
-How It Works
-
-Web Monitoring Dashboard
-
-Code and Embedded C Details
-
-Results and Output
+ Output
 
 Future Enhancements
 ## Project Overview
